@@ -6,11 +6,11 @@
   "description": "Research any topic across Reddit, X, YouTube, Hacker News, Polymarket, GitHub, and the web - last 30 days, scored by upvotes, likes, and real-money prediction-market odds.",
   "author": {
     "name": "Matt Van Horn",
-    "url": "https://github.com/mvanhorn/last30days-skill"
+    "url": "https://github.com/nimbuzke/last30days-skill"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mvanhorn/last30days-skill"
+    "url": "https://github.com/nimbuzke/last30days-skill"
   },
   "license": "MIT",
   "keywords": [

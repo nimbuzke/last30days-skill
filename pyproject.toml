@@ -22,7 +22,7 @@ filename = "CHANGELOG.md"
 start_string = "<!-- towncrier release notes start -->\n"
 underlines = ["", "", ""]
 title_format = "## [{version}] - {project_date}"
-issue_format = "[#{issue}](https://github.com/mvanhorn/last30days-skill/issues/{issue})"
+issue_format = "[#{issue}](https://github.com/nimbuzke/last30days-skill/issues/{issue})"
 
 [[tool.towncrier.type]]
 directory = "security"

@@ -4,8 +4,8 @@ version: "3.31.0"
 description: "Research what people actually say about any topic in the last 30 days. Pulls posts and engagement from Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub, and the web. Includes a doctor health check to diagnose broken or missing sources."
 argument-hint: 'last30days nvidia earnings reaction | last30days AI video tools | last30days what users want in react'
 allowed-tools: Bash, Read, Write, AskUserQuestion, WebSearch
-homepage: https://github.com/mvanhorn/last30days-skill
-repository: https://github.com/mvanhorn/last30days-skill
+homepage: https://github.com/nimbuzke/last30days-skill
+repository: https://github.com/nimbuzke/last30days-skill
 author: mvanhorn
 license: MIT
 user-invocable: true
@@ -37,7 +37,7 @@ metadata:
     files:
       - "scripts/*"
       - "references/*"
-    homepage: https://github.com/mvanhorn/last30days-skill
+    homepage: https://github.com/nimbuzke/last30days-skill
     tags:
       - research
       - deep-research
